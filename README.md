@@ -1,7 +1,14 @@
-## 👋 Welcome to my GitHub page!
-### My name is Ben and I am a Data Scientist
+## Ben | Cloud Consultant & Engineer
 
-My page is filled with various projects I have worked on during coding courses from HyperionDev and Codecademy, challenges I've completed from Kaggle and projects I've picked up just for fun!
+Cloud consultant specialising in SDET transformation, DevOps maturity, and AWS 
+architecture — with a background spanning mechanical engineering, data science, 
+and cloud infrastructure.
 
-Enjoy!
+This page is a mix of personal projects and experiments across:
+
+- Cloud infrastructure and AWS
+- Data science and Python
+- Random projects
+
+Always tinkering, so feel free to explore.
 
